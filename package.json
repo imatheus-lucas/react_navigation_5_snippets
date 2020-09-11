@@ -1,0 +1,32 @@
+{
+  "name": "reactnavigationsnippets",
+  "displayName": "React Navigation 5 Snippets",
+  "description": "Snippets para react navigation 5",
+  "version": "0.1.5",
+  "publisher": "reactnavigationsnippets",
+  "author": {
+    "name": "DonkeyLeads"
+  },
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/imatheus-lucas/snippets"
+  },
+  "homepage": "https://github.com/imatheus-lucas/snippets",
+  "bugs": {
+    "url": "https://github.com/imatheus-lucas/snippets/issues"
+  }
+}
